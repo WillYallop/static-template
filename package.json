@@ -1,12 +1,12 @@
 {
-  "name": "static-website-template",
+  "name": "static-template",
   "version": "1.0.1",
   "description": "template for static website",
-  "author": "Vincent Will <vincent.will@vaitrade.de>",
+  "author": "William Yallop",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vincenius/static-website-template"
+    "url": "https://github.com/WillYallop/static-template"
   },
   "scripts": {
     "clean": "rimraf dist/*",
